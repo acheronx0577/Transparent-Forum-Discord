@@ -1,0 +1,47 @@
+/* Main container */
+.container_faa96b {
+  background-color: rgba(10, 8, 8, 0.158) !important; /* Slightly transparent dark background */
+  backdrop-filter: blur(5px) !important; /* Frosted glass effect */
+  border-radius: 8px !important;
+}
+
+/* Message content area */
+.messageContent_faa96b {
+  background-color: transparent !important;
+  color: rgba(255, 255, 255, 0.9) !important;
+}
+
+/* Header text */
+.headerText_faa96b .postTitleText_faa96b {
+  color: white !important;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.5) !important;
+}
+
+/* Footer elements */
+.footer_faa96b {
+  background-color: transparent !important;
+  border-top: none !important;
+}
+
+/* Reaction buttons */
+.reaction_f8896c {
+  background-color: rgba(255, 255, 255, 0.1) !important;
+  transition: background-color 0.2s ease-in-out;
+}
+
+.reaction_f8896c:hover {
+  background-color: rgba(255, 255, 255, 0.2) !important;
+}
+
+/* Image thumbnail */
+.thumbnailContainer_faa96b {
+  background-color: transparent !important;
+  border: 1px solid rgba(255, 255, 255, 0.1) !important;
+}
+
+/* Tags/pills */
+.pill_a2c9e8 {
+  background-color: rgba(54, 231, 169, 0.2) !important;
+  border: 1px solid rgba(54, 231, 169, 0.3) !important;
+  color: rgba(255, 255, 255, 0.9) !important;
+} 
