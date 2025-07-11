@@ -1,3 +1,11 @@
+/**
+ * @name: Transparent Forum Discord
+ * @author: AcheronX.
+ * @description: Make Forum transparent fit with theme. https://github.com/Gg2jdjdjdwi.
+ * @version: 0.0.1
+ * @source: https://github.com/Gg2jdjdjdwi
+ */
+
 /* Main container */
 .container_faa96b {
   background-color: rgba(10, 8, 8, 0.158) !important; /* Slightly transparent dark background */
