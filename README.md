@@ -12,18 +12,6 @@
 
 ---
 
-# Before:
-
-<img width="195" height="67" alt="image" src="https://github.com/user-attachments/assets/43168f99-110d-4700-8525-fbf6651c563b" />
-
----
-
-# After:
-
-<img width="191" height="67" alt="image" src="https://github.com/user-attachments/assets/3cce1ce2-c69d-410a-bcf0-10866a55680e" />
-
----
-
 # 🎨 How to Install CSS Themes and Custom CSS files on Vencord & BetterDiscord
 
 Customize your Discord experience with beautiful CSS themes using **Vencord** and **BetterDiscord**. This guide shows you how to install full themes and use Quick CSS for fast tweaks! 💻✨
