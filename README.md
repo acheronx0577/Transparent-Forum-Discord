@@ -104,6 +104,10 @@ Scroll down to find `Vencord → Themes`:
 
 <img width="1036" height="720" alt="image" src="https://github.com/user-attachments/assets/694c3177-3489-494d-bdbd-560c41e164bb" />
 
+- If you want easy step then copy this to Quick CSS:
+```css
+@import url('https://raw.githubusercontent.com/Gg2jdjdjwi/Transparent-Forum-Discord/main/Transparent_Forum_Discord.css');
+```
 
 ---
 
@@ -184,6 +188,11 @@ Scroll down to find `BetterDiscord → Themes`:
 - Turn Live Update on and the changes will apply instantly — no restart needed! ✅
 
 <img width="1122" height="760" alt="image" src="https://github.com/user-attachments/assets/f677c4f1-8d97-4e3c-ac4e-e6ba9095105c" />
+
+- If you want easy step then copy this to Quick CSS:
+```css
+@import url('https://raw.githubusercontent.com/Gg2jdjdjwi/Transparent-Forum-Discord/main/Transparent_Forum_Discord.css');
+```
 
 ---
 
