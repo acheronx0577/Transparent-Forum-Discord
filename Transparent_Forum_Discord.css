@@ -1,37 +1,37 @@
 /**
- * @name: Transparent Forum Discord
- * @author: AcheronX.
- * @description: Make Forum transparent fit with theme. https://github.com/Gg2jdjdjdwi.
- * @version: 0.0.1
- * @source: https://github.com/Gg2jdjdjdwi
+ * 🧩 Transparent Forum In DM
+ * @author AcheronX
+ * @description Transparent forum style to fit theme
+ * @version 1
+ * @source https://github.com/Gg2jdjdjdwi
  */
 
-/* Main container */
+/* 🏠 Main container - frosted glass */
 .container_faa96b {
-  background-color: rgba(10, 8, 8, 0.158) !important; /* Slightly transparent dark background */
-  backdrop-filter: blur(5px) !important; /* Frosted glass effect */
+  background-color: rgba(10, 8, 8, 0.158) !important; /* subtle dark transparency */
+  backdrop-filter: blur(5px) !important; /* frosted effect */
   border-radius: 8px !important;
 }
 
-/* Message content area */
+/* 💬 Message content - transparent bg, bright text */
 .messageContent_faa96b {
   background-color: transparent !important;
   color: rgba(255, 255, 255, 0.9) !important;
 }
 
-/* Header text */
+/* 📰 Header title - white with subtle shadow */
 .headerText_faa96b .postTitleText_faa96b {
   color: white !important;
   text-shadow: 0 1px 2px rgba(0, 0, 0, 0.5) !important;
 }
 
-/* Footer elements */
+/* 📍 Footer - transparent and no border */
 .footer_faa96b {
   background-color: transparent !important;
   border-top: none !important;
 }
 
-/* Reaction buttons */
+/* 👍 Reaction buttons - light transparent bg and hover */
 .reaction_f8896c {
   background-color: rgba(255, 255, 255, 0.1) !important;
   transition: background-color 0.2s ease-in-out;
@@ -41,15 +41,15 @@
   background-color: rgba(255, 255, 255, 0.2) !important;
 }
 
-/* Image thumbnail */
+/* 🖼️ Image thumbnails - transparent with faint border */
 .thumbnailContainer_faa96b {
   background-color: transparent !important;
   border: 1px solid rgba(255, 255, 255, 0.1) !important;
 }
 
-/* Tags/pills */
+/* 🏷️ Tags/pills - green translucent bg with border */
 .pill_a2c9e8 {
   background-color: rgba(54, 231, 169, 0.2) !important;
   border: 1px solid rgba(54, 231, 169, 0.3) !important;
   color: rgba(255, 255, 255, 0.9) !important;
-} 
+}
